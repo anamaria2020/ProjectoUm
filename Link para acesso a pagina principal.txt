@@ -1,0 +1,35 @@
+http://localhost/adelia/view/index.php
+
+
+NOTA: Durante o registo de utilizadores,
+verique estas passwords..
+
+---------------------------------------------------------
+
+Password: 0000, usado para registo de clientes
+
+
+Password: admin, usado para registo de administrador da APP
+
+
+Password: 2019, usado para registo de intermediarios
+
+---------------------------------------------------------
+
+
+Durante o processo de login, o utilizador que tiver a password = admin
+sera direcionado a tela de administrador da app..
+
+
+Quem tiver tiver a password = 0000
+sera direcionado a tela de cliente..
+
+
+O utilizador que tiver tiver a password = 2019
+sera direcionado a tela de intermediario..
+
+
+
+
+link para download do projecto:
+https://drive.google.com/file/d/1TEu-07ABK-H1UXUhQuBZzklwMzFrU4fV/view?usp=sharing
